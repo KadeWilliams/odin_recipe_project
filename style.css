@@ -1,0 +1,10 @@
+h1 {
+    color: green;
+    background-color: purple;
+}
+
+a,li {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+}
